@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: auction-game
+    name: auction-friends-game
     runtime: node
     plan: free
     buildCommand: npm install
